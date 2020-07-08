@@ -1,4 +1,4 @@
-# course1010-Project
+Photography Portfolio website made with React-bootstrap. 
 
 This project was bootstrapped with Create React App.
 
