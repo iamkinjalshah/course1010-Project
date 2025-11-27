@@ -25,11 +25,11 @@
     "react-pose": "^4.0.8",
     "react-pose-text": "^3.1.0",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "^3.4.1",
+    "react-scripts": "^5.0.1",
     "react-scroll-parallax": "^2.1.1",
     "react-scrollable-anchor": "^0.6.1",
     "react-simple-parallax": "^0.2.6",
-    "simple-parallax-js": "^5.1.0"
+    "simple-parallax-js": "^5.6.2"
   },
   "scripts": {
     "start": "react-scripts start",
